@@ -36,7 +36,9 @@ const nahid = {
   funFact: "I debug better when it’s late at night and peaceful 🌙"
 };
 
-<h3 align="left">🛠️ Tech Stack</h3>
+
+## 🛠️ Tech Stack
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -75,3 +77,7 @@ const nahid = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+
