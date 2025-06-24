@@ -13,29 +13,43 @@
 
 
 
-class FullStackDeveloper:
+class SoftwareEngineer:
 
     def __init__(self):
         self.name = "S.M. Nahid Hasan"
-        self.role = "Full Stack Web Developer"
-        self.stack = "MERN Stack"
-        self.education = "BSc in CSE, IUBAT"
-        self.languages_spoken = ["en_US", "bn_BD"]
-        self.interests = [
-            "Building scalable web apps",
-            "UI/UX design",
-            "Learning new frameworks like Next.js",
-            "Working on real-world projects"
+        self.pronouns = "He/Him"
+        self.education = "BSc in CSE, International University of Business Agriculture and Technology (IUBAT)"
+        self.comfortable_with = ["C", "C#", "JavaScript", "HTML", "CSS"]
+        self.ask_me_about = [
+            "Full Stack Development",
+            "Frontend Development",
+            "Responsive UI Design",
+            "React Projects",
+            "Node.js Backend",
+            "Academic Collaboration"
+        ]
+        self.technologies = {
+            "frontend": ["HTML5", "CSS3", "JavaScript", "React"],
+            "styling": ["Tailwind CSS", "Bootstrap"],
+            "backend": ["Node.js", "Express.js"],
+            "database": ["MongoDB"]
+        }
+        self.tools_platforms = ["VS Code", "Git & GitHub", "Chrome DevTools", "Postman"]
+        self.dev_practices = [
+            "REST APIs",
+            "Component-Based Architecture",
+            "Authentication",
+            "Form Validation"
         ]
         self.current_focus = [
-            "Parcel Delivery System",
-            "Next.js & Advanced React",
-            "Stripe Payment Integration"
+            "Building a full-featured Parcel Delivery System",
+            "Mastering Next.js"
         ]
+        self.fun_fact = "I debug better when it’s late at night and peaceful 🌙"
 
     def say_hi(self):
-        print("Hi there! 👋 I'm Nahid, a passionate developer who loves turning ideas into interactive, functional web apps.")
-        print("Thanks for stopping by — feel free to explore my work and connect!")
+        print("Hi there! 👋 I'm S M Nahid Hasan, a passionate Full Stack Developer.")
+        print("Thanks for visiting my profile — feel free to explore my projects and connect!")
 
 me = SoftwareEngineer()
 me.say_hi()
