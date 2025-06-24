@@ -1,5 +1,9 @@
 <img src="banner.png" alt="Banner" width="100%" />
 
+<h1 align="center">Hi 👋, I'm S.M. Nahid Hasan</h1>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3>
+
+
 ## 🧠 A little more about me...
 
 ```js
@@ -8,7 +12,7 @@ const nahid = {
   education: "BSc in CSE, International University of Business Agriculture and Technology (IUBAT)",
   code: ["C", "C#", "JavaScript", "HTML", "CSS"],
   askMeAbout: [
-    "MERN Stack",
+    "Full Stack Developer",
     "frontend development",
     "responsive UI design",
     "React projects",
