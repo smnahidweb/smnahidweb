@@ -86,11 +86,11 @@ class SoftwareEngineer:
 </p>
 
 
-<h2 align="center">🚀 My Skills</h2>
+<h2 align="left">🚀 My Skills</h2>
 
 <!-- 🖥️ Programming Languages -->
 <h3 align="center">🖥️ Programming Languages</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" /></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" /></a>
@@ -100,8 +100,8 @@ class SoftwareEngineer:
 </p>
 
 <!-- 🌐 Frontend -->
-<h3 align="center">🌐 Frontend Frameworks & Libraries</h3>
-<p align="center">
+<h3 align="left">🌐 Frontend Frameworks & Libraries</h3>
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" /></a>
   <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" width="50" height="50" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" /></a>
@@ -109,8 +109,8 @@ class SoftwareEngineer:
 </p>
 
 <!-- ⚙️ Backend -->
-<h3 align="center">⚙️ Backend & Databases</h3>
-<p align="center">
+<h3 align="left">⚙️ Backend & Databases</h3>
+<p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" /></a>
@@ -119,8 +119,8 @@ class SoftwareEngineer:
 </p>
 
 <!-- 🧰 Tools -->
-<h3 align="center">🧰 Tools & Platforms</h3>
-<p align="center">
+<h3 align="left">🧰 Tools & Platforms</h3>
+<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /></a>
