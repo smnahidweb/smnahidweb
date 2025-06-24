@@ -144,8 +144,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smnahidweb&show_icons=true&locale=en" alt="smnahidweb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smnahidweb&" alt="smnahidweb" /></p>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=smnahidweb&theme=onedark" alt="smnahidweb" /></p>
 
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=smnahidweb&theme=onedark" alt="smnahidweb" /></p>
+## 📊 GitHub Contribution Graph
+
+
+<p><img align="center" src="[https://github-profile-trophy.vercel.app/?username=smnahidweb&theme=onedark](https://github.com/smnahidweb.png?tab=overview&from=2023-01-01&to=2023-12-31)" alt="smnahidweb" /></p>
 
 
 
