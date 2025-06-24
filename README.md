@@ -51,14 +51,11 @@ class SoftwareEngineer:
         print("Hi there! 👋 I'm S M Nahid Hasan, a passionate Full Stack Developer.")
         print("Thanks for visiting my profile — feel free to explore my projects and connect!")
 
-me = SoftwareEngineer()
-me.say_hi()
 
 
 
 
-
--   I’m currently developing a Parcel Delivery System using the MERN stack.
+-  🚚 I’m currently developing a **Parcel Delivery System** using the **MERN stack**.
 -  💳 Integrating Stripe Payment Gateway into real-world projects.
 -  📚 Preparing to contribute to open-source and collaborative projects.
 -  🌱 Constantly refining my React & Node.js skills through hands-on practice.
