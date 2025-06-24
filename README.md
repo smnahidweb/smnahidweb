@@ -57,9 +57,6 @@ me.say_hi()
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smnahidweb&label=Profile%20views&color=0e75b6&style=flat" alt="smnahidweb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smnahidweb" alt="smnahidweb" /></a> </p>
 
 -   I’m currently developing a Parcel Delivery System using the MERN stack.
 -  💳 Integrating Stripe Payment Gateway into real-world projects.
