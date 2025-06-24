@@ -149,12 +149,6 @@
 
 
 
-<h3 align="left">📊 GitHub Contribution</h3>
-
-
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=smnahidweb&theme=react-dark" /></p>
-
-
 
 
 
