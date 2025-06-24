@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm S.M. Nahid Hasan</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast</h3>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" style="max-width: 100%; ;" />
+  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" style="max-width: 100%; height:500px ;" />
 </p>
 
 
