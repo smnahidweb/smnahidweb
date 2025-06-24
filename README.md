@@ -152,7 +152,7 @@
 <h3 align="left">📊 GitHub Contribution</h3>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=smnahidweb&show_icons=true&theme=react&hide_border=true" alt="smnahidweb" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=smnahidweb&theme=react-dark" /></p>
 
 
 
