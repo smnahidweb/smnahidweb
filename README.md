@@ -10,8 +10,7 @@
 
 ## 🧠 A Little More About Me...
 
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+
 
 
 class SoftwareEngineer:
