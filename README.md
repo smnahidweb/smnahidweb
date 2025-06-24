@@ -10,20 +10,23 @@
 
 ## 🧠 A Little More About Me...
 
-👨‍💻 Pronouns: **He/Him**  
-🎓 Education: **BSc in CSE**, International University of Business Agriculture and Technology (IUBAT)  
-💻 Comfortable With: **C**, **C#**, **JavaScript**, **HTML**, **CSS**  
-💬 Ask Me About: Full Stack Development, Frontend Development, Responsive UI Design, React Projects, Node.js Backend, Academic Collaboration  
-⚙️ Technologies:  
-Frontend – HTML5, CSS3, JavaScript, React  
-Styling – Tailwind CSS, Bootstrap  
-Backend – Node.js, Express.js  
-Database – MongoDB  
-🛠️ Tools: VS Code, Git & GitHub, Chrome DevTools, Postman  
-📐 Dev Practices: REST APIs, Component-Based Architecture, Authentication, Form Validation  
-🚀 Current Focus: Building a full-featured **Parcel Delivery System** and mastering **Next.js**  
-🌙 Fun Fact: I debug better when it’s late at night and peaceful!
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
 
 
 
