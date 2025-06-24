@@ -8,43 +8,21 @@
 
 
 
-## 🧠 A little more about me...
+## 🧠 A Little More About Me...
 
-```js
-const nahid = {
-  pronouns: "He/Him",
-  education: "BSc in CSE, International University of Business Agriculture and Technology (IUBAT)",
-  code: ["C", "C#", "JavaScript", "HTML", "CSS"],
-  askMeAbout: [
-    "Full Stack Developer",
-    "frontend development",
-    "responsive UI design",
-    "React projects",
-    "Node.js backend",
-    "academic collaboration"
-  ],
-  technologies: {
-    frontEnd: {
-      core: ["HTML5", "CSS3", "JavaScript"],
-      frameworks: ["React"],
-      styling: ["Tailwind CSS", "Bootstrap"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express.js"]
-    },
-    database: ["MongoDB"]
-  },
-  toolsAndPlatforms: ["VS Code", "Git & GitHub", "Chrome DevTools", "Postman"],
-  devPractices: [
-    "REST APIs",
-    "Component-Based Architecture",
-    "Authentication",
-    "Form Validation"
-  ],
-  currentFocus: "Building a full-featured Parcel Delivery System and mastering Next.js",
-  funFact: "I debug better when it’s late at night and peaceful 🌙"
-};
-
+👨‍💻 Pronouns: **He/Him**  
+🎓 Education: **BSc in CSE**, International University of Business Agriculture and Technology (IUBAT)  
+💻 Comfortable With: **C**, **C#**, **JavaScript**, **HTML**, **CSS**  
+💬 Ask Me About: Full Stack Development, Frontend Development, Responsive UI Design, React Projects, Node.js Backend, Academic Collaboration  
+⚙️ Technologies:  
+Frontend – HTML5, CSS3, JavaScript, React  
+Styling – Tailwind CSS, Bootstrap  
+Backend – Node.js, Express.js  
+Database – MongoDB  
+🛠️ Tools: VS Code, Git & GitHub, Chrome DevTools, Postman  
+📐 Dev Practices: REST APIs, Component-Based Architecture, Authentication, Form Validation  
+🚀 Current Focus: Building a full-featured **Parcel Delivery System** and mastering **Next.js**  
+🌙 Fun Fact: I debug better when it’s late at night and peaceful!
 
 
 
