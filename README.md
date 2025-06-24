@@ -13,16 +13,29 @@
 
 
 
-class SoftwareEngineer:
+class FullStackDeveloper:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "S.M. Nahid Hasan"
+        self.role = "Full Stack Web Developer"
+        self.stack = "MERN Stack"
+        self.education = "BSc in CSE, IUBAT"
+        self.languages_spoken = ["en_US", "bn_BD"]
+        self.interests = [
+            "Building scalable web apps",
+            "UI/UX design",
+            "Learning new frameworks like Next.js",
+            "Working on real-world projects"
+        ]
+        self.current_focus = [
+            "Parcel Delivery System",
+            "Next.js & Advanced React",
+            "Stripe Payment Integration"
+        ]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
+        print("Hi there! 👋 I'm Nahid, a passionate developer who loves turning ideas into interactive, functional web apps.")
+        print("Thanks for stopping by — feel free to explore my work and connect!")
 
 me = SoftwareEngineer()
 me.say_hi()
