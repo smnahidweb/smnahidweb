@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Fast Delivery**
 
-- 🌱 I’m currently learning **- 🌐 Next.js (Server-side rendering & routing) - 🛡️ Role-Based Access Control (RBAC) in Express - 🔐 Firebase Admin SDK with JWT authentication - 🚀 Stripe Payment Gateway Integration - 🧩 Optimizing MongoDB queries**
+- 🌱 I’m currently learning **- 🌐 Next.js**
 
 - 💬 Ask me about **react,MERN**
 
