@@ -61,7 +61,10 @@ me.say_hi()
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smnahidweb" alt="smnahidweb" /></a> </p>
 
-- 🔭 I’m currently working on **Fast Delivery**
+-   I’m currently developing a Parcel Delivery System using the MERN stack.
+-  💳 Integrating Stripe Payment Gateway into real-world projects.
+-  📚 Preparing to contribute to open-source and collaborative projects.
+-  🌱 Constantly refining my React & Node.js skills through hands-on practice.
 
 - 🌱 I’m currently learning **- 🌐 Next.js**
 
@@ -142,6 +145,9 @@ me.say_hi()
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smnahidweb&show_icons=true&locale=en" alt="smnahidweb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smnahidweb&" alt="smnahidweb" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=smnahidweb&theme=onedark" alt="smnahidweb" /></p>
+
+
 
 
 
