@@ -70,15 +70,15 @@ me.say_hi()
 - 📫 How to reach me **smnahidh040@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <!-- Facebook -->
   <a href="https://fb.com/nahid592002" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 
-  <!-- Email -->
+ <!-- Email -->
   <a href="mailto:nahid592002@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" />
   </a>
 
   <!-- LinkedIn -->
